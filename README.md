@@ -7,9 +7,9 @@ copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py 
 • How To Install and Use
 $ pkg install -y git python
 
+$ git clone https://github.com/genprokyror/TeleGram-Scraper2
 
-
-$ cd TeleGram-Scraper
+$ cd TeleGram-Scraper2
 
 Install requierments
 $ python3 setup.py -i
